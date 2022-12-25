@@ -10,8 +10,7 @@ kaggle-environments=1.10.3
 tqdm=4.64.1
 gym=0.21.0
 numpy=1.23.4
-matplotlib-base=3.6.2
-matplotlib-inline=0.1.6
+matplotlib=3.6.2
 ```
 <hr>
 
